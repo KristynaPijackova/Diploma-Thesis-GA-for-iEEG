@@ -1,0 +1,12 @@
+zmq
+torch-summary
+tensorboard
+numpy
+pyzmq
+tqdm
+scipy
+scikit-learn
+pandas
+matplotlib
+seaborn
+kymatio
