@@ -1,8 +1,11 @@
 # Optimizing neural network architecture for EEG processing using evolutionary algorithms
 
 **Author:** Kristyna Pijackova
+
 **2022/2023**
+
 **Brno University of Technology, Faculty of Electrical Engineering and Communications** 
+
 This thesis was done in colaboration with the [Computational Neuroscience group](https://www.isibrno.cz/en/computational-neuroscience) at the Institute of Scientific Instruments in Brno.
 
 **Abstract**
